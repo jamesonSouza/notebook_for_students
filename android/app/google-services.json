@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "570789059373",
+    "firebase_url": "https://anotationsforstudents.firebaseio.com",
+    "project_id": "anotationsforstudents",
+    "storage_bucket": "anotationsforstudents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570789059373:android:42204fdb48cc28f7",
+        "android_client_info": {
+          "package_name": "br.com.jmsapplay.anotacoesblocos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570789059373-s7aed9205v31qm035mun85mrsuf6n8an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dNzTMhMc0OvwUN8z26FEdgaKCs0PoiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9275202133724780~5052682217"
+    }
+  ],
+  "configuration_version": "1"
+}
